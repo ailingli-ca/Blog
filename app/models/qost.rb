@@ -1,0 +1,2 @@
+class Qost < ApplicationRecord
+end
